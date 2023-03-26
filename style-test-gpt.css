@@ -9,8 +9,6 @@ header {
     padding: 10px;
     display: flex;
     justify-content: safe center;
-    align-items: center;
-    text-align: center;
     position: relative;
     font-family: "Sofia", sans-serif;
 }
@@ -42,15 +40,18 @@ nav ul li{
         padding-bottom:20px;
     }
         nav ul li a:hover {
-            background-color: #000;
+            background-color: #ffffff;
+            color:black;
         }
 nav {
-    position:absolute;
-    bottom:0;
-    margin-top:20px;
+    position: fixed;
+    margin-top: 0;
+    top: 0;
+    width: 100%;
+    background-color: #333;
 }
 #main-header{
-    margin: 20px 30px 40px 30px;
+    margin: 60px 30px 40px 30px;
     font-size:70px;
 }
 div.gallery{
@@ -105,5 +106,6 @@ iframe{
 .qr_image{
     margin:10px 200px 10px 450px ;
 }
-
-
+p{
+    text-align:center;
+}
