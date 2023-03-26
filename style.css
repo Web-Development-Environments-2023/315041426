@@ -109,3 +109,9 @@ iframe{
 p{
     text-align:center;
 }
+form{
+    justify-content:center;
+}
+#contact{
+    justify-content:center;
+}
