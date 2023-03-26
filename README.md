@@ -1,4 +1,5 @@
-# 315041426
+# An HTML and CSS only landing page about Clint Eastwood.
+by Gil Michalovich 315041426
 assignment1-GilMich created by GitHub Classroom
 
 An HTML and CSS only landing page about Clint Eastwood.
