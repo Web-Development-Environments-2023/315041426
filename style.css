@@ -107,7 +107,8 @@ iframe{
     margin:10px 200px 10px 450px ;
 }
 p{
-    text-align:center;
+    text-align:left;
+    margin-left:40px;
 }
 form{
     justify-content:center;
