@@ -106,9 +106,11 @@ iframe{
 .qr_image{
     margin:10px 200px 10px 450px ;
 }
-p{
-    text-align:left;
-    margin-left:40px;
+p {
+    text-align: left;
+    margin-left: 40px;
+    font-family: 'Delicious Handrawn', cursive;
+    font-size:25px;
 }
 form{
     justify-content:center;
